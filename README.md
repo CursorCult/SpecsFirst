@@ -1,3 +1,5 @@
+# Part of the [CursorCult](https://github.com/CursorCult)
+
 # SpecsFirst
 
 Write specs first; keep spec/design/code in sync.
