@@ -1,8 +1,6 @@
-# ⚠️ DEPRECATED
+# DEPRECATED
 
-This rule has been replaced by [Hodor](https://github.com/CursorCult/Hodor).
-
-Hodor provides a unified "golden thread" traceability rule that subsumes SpecsFirst.
+This rule is deprecated.
 
 ---
 
@@ -24,8 +22,8 @@ Rule file format reference: https://cursor.com/docs/context/rules#rulemd-file-fo
 **When to use**
 
 - You want requirements to drive design and implementation, not trail them.
-- You keep finding “mystery behavior” with no written rationale.
-- You want a clear map from intention → structure → code.
+- You keep finding "mystery behavior" with no written rationale.
+- You want a clear map from intention -> structure -> code.
 
 **What it enforces**
 
