@@ -1,3 +1,11 @@
+# ⚠️ DEPRECATED
+
+This rule has been replaced by [Hodor](https://github.com/CursorCult/Hodor).
+
+Hodor provides a unified "golden thread" traceability rule that subsumes SpecsFirst.
+
+---
+
 # Part of the [CursorCult](https://github.com/CursorCult)
 
 # SpecsFirst
